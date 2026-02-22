@@ -1,2 +1,1 @@
-local pull 1
-local pull 2
+remote pull 1
